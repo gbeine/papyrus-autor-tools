@@ -1,0 +1,13 @@
+papyrus:
+    reference_path: <<HOME>>/Path/to/Papyrus/Database
+    reference_database: Research.pb
+zotero:
+    zotero_path: <<HOME>>/Zotero
+    zotero_database: zotero.sqlite
+kindle:
+    kindle_path: /Volumes/Kindle
+    kindle_file: My Clippings.txt
+pocketbook:
+    pocketbook_path: /Volumes
+    pocketbook_type: PB602
+    pocketbook_database: books.db
