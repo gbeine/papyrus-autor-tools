@@ -10,9 +10,12 @@ class R:
                 if r is not None:
                         self._content = r.text
 
+
         @property
         def author(self):
                 return self._author
+
+
         @author.setter
         def author(self, value):
                 self._author = value
